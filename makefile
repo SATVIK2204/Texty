@@ -6,4 +6,4 @@ run:
 
 brun:
 	go build -o bin/main texty.go
-	go run texty.go
+	./bin/main

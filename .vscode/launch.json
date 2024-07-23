@@ -10,6 +10,20 @@
       "request": "attach",
       "mode": "local",
       "processId": 0
+    },
+    {
+      "name": "Launch file",
+      "type": "go",
+      "request": "launch",
+      "mode": "debug",
+      "program": "${file}"
+    },
+    {
+      "name": "Launch Package",
+      "type": "go",
+      "request": "launch",
+      "mode": "auto",
+      "program": "${fileDirname}"
     }
   ]
 }

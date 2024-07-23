@@ -1,0 +1,18 @@
+{
+  "Theme": {
+    "LineNumber": {
+      "fg": "magenta",
+      "bg": "default"
+    },
+    "EditorBackground": "default",
+    "EmptyLine": {
+      "fg": "default",
+      "bg": "default"
+    },
+    "Text": {
+      "fg": "blue",
+      "bg": "default"
+    },
+    "EmptyLineSymbol": "~"
+  }
+}
